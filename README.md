@@ -1,4 +1,4 @@
-# graal-containers
+# Graal Containers
 
 ## Introduction
 
